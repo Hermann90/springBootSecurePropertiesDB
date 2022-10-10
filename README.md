@@ -1,2 +1,5 @@
 # springBootSecurePropertiesDB
-this project allows us to protect the MySQL database access in application.properties file
+
+## spring-boot-jasypt
+
+https://javatechie4u.medium.com/spring-boot-password-encryption-using-jasypt-9ee731701e70
